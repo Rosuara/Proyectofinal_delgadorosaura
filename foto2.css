@@ -1,0 +1,73 @@
+margin: 0 auto;
+{
+pandding:20px;
+color:#b8e994;
+font-weight:bold;
+}
+
+header {
+color: black;
+background-color:#dfe4ea;
+text-align: center;
+padding: 30px;
+maring-botton: 40px;
+}
+
+h1 {
+ text-alig: left;
+  font-family: 'Playfair Display', serif;
+ font-weight: bold;
+ color: black;
+ tex-shadow: 2px 0px 2px gray;
+   }
+
+h2 {
+ text-align: center;
+ font-family: serif;
+ font-weight: bold;
+ margin:18px;
+ padding-right: 30px;
+ color: black;
+   }
+
+a  {
+ padding:  30px;
+ text-alig; center;
+ font-family: sans-serif;
+ font-weight: bold;
+ color: #57606f;
+ text-decoration: none;
+    }
+a:hover {
+color:#2f3542;
+}
+
+div{
+heigth:200px;
+width:200px;
+backgroung: black;
+margin:50px;
+text-align:center; 
+box-shadow: 10px 30px 20px gray:
+}
+
+contenido {
+display: inline-block;
+text-align:center;
+box-shadow: 10px 30px 20px gray:
+         }
+
+.foto {
+padding :5px;
+margin: 10px;
+}
+
+footer {
+background-color: white;
+color: black;
+font-family: sans-serif;
+font-size: 20px;
+text-align: center;
+padding: 15px;
+maring-botton: 100px;
+}

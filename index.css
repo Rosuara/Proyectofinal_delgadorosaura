@@ -1,0 +1,154 @@
+margin: 0 auto;
+{
+pandding:20px;
+color:#b8e994;
+font-weight:bold;
+}
+
+header {
+color: black;
+background-color:#dfe4ea;
+text-align: center;
+padding: 30px;
+
+}
+
+h1 {
+ text-alig: left;
+ font-family: 'Playfair Display', serif;
+ font-weight: bold;
+ color: black;
+
+   }
+
+h2 {
+ text-align: center;
+ font-family: 'Lora', serif;
+ font-weight: bold;
+ margin:18px;
+ padding-right: 30px;
+ color: white;
+   }
+
+a  {
+ padding:  30px;
+ text-alig; center;
+ font-family: sans-serif;
+ font-weight: bold;
+ color: #57606f;
+ text-decoration: none;
+    }
+
+a:hover {
+color:#2f3542;
+}
+
+p {
+ text-align: left;
+ font-family: sans-serif; 
+ margin:35px;
+ padding-center: 20px;
+ color: white;
+ font-size: 18px;
+  }
+
+li {
+font-size: 20px;
+color:white;
+list-style-type:;
+   }
+
+div {
+with:600px;
+height:400px;
+display:block;
+color:black;
+Background-color:black;
+border: 20px solid black;
+margin-bottom: 20px;
+margin-top: 10px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+box-shadow: 10 px 30px 20px gray;
+}
+
+footer {
+background-color: white;
+color: black;
+font-family: sans-serif;
+font-size: 20px;
+text-align: center;
+padding: 15px;
+maring-botton: 100px;
+}
+
+.abajo {
+ text-align: center;
+ font-family: sans-serif; 
+ margin:35px;
+ padding-center: 20px;
+ color: black;
+ font-size: 18px;
+}
+.img1 {
+  float: left;
+  border: 0px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+iframe {
+display: center;
+margin-bottom: 20px;
+margin-top: 10px;
+width: 80%;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+}
+
+.dos {
+with:700px;
+height:700px;
+display:block;
+color:black;
+Background-color:black;
+border: 20px solid black;
+margin-bottom: 20px;
+margin-top: 10px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+box-shadow: 10 px 30px 20px gray;
+}
+
+. tres {
+with:200px;
+height:200px;
+background: black;
+margin:50px;
+text- align: center;
+}
+
+cuatro {
+with:400px;
+height:400px;
+background: black;
+margin:50px;
+text- align: center;
+}
+
+.img0 {
+  float:right;
+  border: 0px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
